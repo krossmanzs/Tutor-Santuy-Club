@@ -1,10 +1,13 @@
 # Pt. 6 - Array
 
 ## File baru:
-- [array.cpp](array.cpp)
-- [arraymd.cpp](arraymd.cpp)
-- [tugas5-hana.cpp](tugas5-hana.cpp)
+- [linearsearch.cpp](linearsearch.cpp)
+- [pointer.cpp](pointer.cpp)
+- [struct.cpp](struct.cpp)
 - [tugas5.cpp](tugas5.cpp)
 
+## Tugas:
+- [tugas7.cpp](tugas7.cpp)
+
 ## Coretan
-https://miro.com/app/board/uXjVMwit3Ug=/?share_link_id=709211978328
+https://miro.com/app/board/uXjVMw2qy-Y=/?share_link_id=268053320962
